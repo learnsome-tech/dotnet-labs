@@ -1,0 +1,4 @@
+Nulls.cs(12,36): warning CS8602: Dereference of a possibly null reference.
+sku is WID-7
+no sku
+5

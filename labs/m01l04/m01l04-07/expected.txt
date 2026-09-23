@@ -1,0 +1,5 @@
+True
+2
+42.75
+Kitchen has 2
+Home has 1

@@ -1,0 +1,4 @@
+3;0;1;
+total 4, left 0
+price of wid-7
+unknown

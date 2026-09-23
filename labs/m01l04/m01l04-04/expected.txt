@@ -1,0 +1,6 @@
+3
+Lamp
+24.50
+False
+2
+True

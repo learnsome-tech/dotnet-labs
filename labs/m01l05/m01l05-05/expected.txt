@@ -1,0 +1,2 @@
+sequential: 3s
+parallel:   1s

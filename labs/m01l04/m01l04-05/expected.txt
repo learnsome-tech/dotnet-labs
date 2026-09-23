@@ -1,0 +1,8 @@
+query built
+testing 12
+kept 12
+testing 40
+kept 40
+testing 7
+testing 95
+kept 95

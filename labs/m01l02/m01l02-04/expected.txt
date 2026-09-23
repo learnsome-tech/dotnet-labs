@@ -1,0 +1,2 @@
+struct Size:  a is 10, b is 99
+class Box:    x is 99, y is 99
