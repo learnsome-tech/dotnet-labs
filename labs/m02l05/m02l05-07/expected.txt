@@ -1,3 +1,0 @@
-Unhandled exception. Microsoft.Extensions.Options.OptionsValidationException:
-DataAnnotation validation failed for 'CatalogOptions' members: 'MaxPageSize'
-with the error: 'The field MaxPageSize must be between 1 and 200.'.

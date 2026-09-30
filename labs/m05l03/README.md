@@ -1,20 +1,23 @@
-# OpenAPI Generation in .NET 9
+# m05l03 · OpenAPI Generation in .NET 9
 
-**Course**: [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course)  
-**Module**: Validation Errors And OpenAPI  
-**Lesson**: `m05l03`
+Module 5: Validation Errors And OpenAPI · lesson 5.3 · Pro · [Open the lesson](https://learnsome.tech/learn/dotnet-course/m05l03)
 
-## Links
+**Goal:** You can generate and expose an OpenAPI document with AddOpenApi and MapOpenApi.
 
-- [Watch lesson](https://learnsome.tech/courses/dotnet-course/watch?lesson=m05l03)
-- [Handbook](https://learnsome.tech/courses/dotnet-course/book#lesson-5-3)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m05l03-02](m05l03-02/) | Add and map the built in document | Read along |
+| [m05l03-03](m05l03-03/) | The document endpoint returns JSON | Read along |
 
-- [`m05l03-02/`](m05l03-02/)
-- [`m05l03-03/`](m05l03-03/)
+## Check yourself
+
+- What does an OpenAPI document describe?
+- What does AddOpenApi do?
+- Why is the document endpoint sensitive?
+- Does built in generation include a UI?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Modern .NET Core, C# & Enterprise Microservices on LearnSome.tech](https://learnsome.tech/courses/dotnet-course)

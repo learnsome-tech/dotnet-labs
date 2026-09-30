@@ -1,0 +1,17 @@
+{
+  "lab": "m02l04-04",
+  "lesson": "m02l04",
+  "title": "Constructor injection keeps dependencies visible",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "OrderEndpoint.cs",
+  "files": [
+    "OrderEndpoint.cs"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,20 @@
+{
+  "lab": "m04l02-04",
+  "lesson": "m04l02",
+  "title": "A query returns a projected response",
+  "mode": "run",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Query.cs",
+  "files": [
+    "Query.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "dotnet"
+  ],
+  "note": "what the listing prints in the lab sandbox differs from the output recorded for the lesson (it depends on the machine, the clock or the network), so the site runs it without a pass or fail."
+}

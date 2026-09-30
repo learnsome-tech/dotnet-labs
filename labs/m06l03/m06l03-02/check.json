@@ -1,0 +1,17 @@
+{
+  "lab": "m06l03-02",
+  "lesson": "m06l03",
+  "title": "Register a fixed window limiter",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "RateLimit.cs",
+  "files": [
+    "RateLimit.cs"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

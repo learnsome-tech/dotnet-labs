@@ -1,0 +1,20 @@
+{
+  "lab": "m01l01-08",
+  "lesson": "m01l01",
+  "title": "Top level statements in Program.cs",
+  "mode": "graded",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Program.cs",
+  "files": [
+    "Program.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "dotnet",
+  "requires": [
+    "dotnet"
+  ],
+  "note": null
+}

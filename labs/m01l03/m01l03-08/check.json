@@ -1,0 +1,20 @@
+{
+  "lab": "m01l03-08",
+  "lesson": "m01l03",
+  "title": "Equality: references first, members only if you say so",
+  "mode": "graded",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Equality.cs",
+  "files": [
+    "Equality.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "dotnet",
+  "requires": [
+    "dotnet"
+  ],
+  "note": null
+}

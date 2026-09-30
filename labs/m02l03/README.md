@@ -1,21 +1,24 @@
-# Code Quality: .editorconfig and Roslyn Analyzers
+# m02l03 · Code Quality: .editorconfig and Roslyn Analyzers
 
-**Course**: [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course)  
-**Module**: Solutions Projects And Configuration  
-**Lesson**: `m02l03`
+Module 2: Solutions Projects And Configuration · lesson 2.3 · Pro · [Open the lesson](https://learnsome.tech/learn/dotnet-course/m02l03)
 
-## Links
+**Goal:** You can configure formatting and analyzer severity in the repository, then fix the diagnostics that protect an API from avoidable defects.
 
-- [Watch lesson](https://learnsome.tech/courses/dotnet-course/watch?lesson=m02l03)
-- [Handbook](https://learnsome.tech/courses/dotnet-course/book#lesson-2-3)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m02l03-02](m02l03-02/) | A small editor config with a clear contract | Read along |
+| [m02l03-03](m02l03-03/) | A diagnostic is feedback from the build | Runs, not graded |
+| [m02l03-05](m02l03-05/) | Make warnings visible in continuous integration | Read along |
 
-- [`m02l03-02/`](m02l03-02/)
-- [`m02l03-03/`](m02l03-03/)
-- [`m02l03-05/`](m02l03-05/)
+## Check yourself
+
+- What is the difference between an analyzer and a formatter?
+- When is a suggestion more appropriate than an error?
+- Why should generated code use a narrow exception?
+- What should a suppression explain?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Modern .NET Core, C# & Enterprise Microservices on LearnSome.tech](https://learnsome.tech/courses/dotnet-course)

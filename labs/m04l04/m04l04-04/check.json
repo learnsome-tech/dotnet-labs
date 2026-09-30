@@ -1,0 +1,18 @@
+{
+  "lab": "m04l04-04",
+  "lesson": "m04l04",
+  "title": "Mapping produces a public record",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "Mapping.cs",
+  "files": [
+    "Mapping.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "The listing does not run cleanly in the lab sandbox (it relies on something the sandbox cannot provide), so the site shows it read-only."
+}

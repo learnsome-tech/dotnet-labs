@@ -1,0 +1,20 @@
+{
+  "lab": "m06l05-03",
+  "lesson": "m06l05",
+  "title": "An exhausted policy fails clearly",
+  "mode": "graded",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Resilience.cs",
+  "files": [
+    "Resilience.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "dotnet",
+  "requires": [
+    "dotnet"
+  ],
+  "note": null
+}

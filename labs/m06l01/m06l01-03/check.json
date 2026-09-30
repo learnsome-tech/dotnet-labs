@@ -1,0 +1,18 @@
+{
+  "lab": "m06l01-03",
+  "lesson": "m06l01",
+  "title": "A claim is available after authentication",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "Claims.cs",
+  "files": [
+    "Claims.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "The listing does not run cleanly in the lab sandbox (it relies on something the sandbox cannot provide), so the site shows it read-only."
+}

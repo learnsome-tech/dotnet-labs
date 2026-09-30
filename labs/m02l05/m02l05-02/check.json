@@ -1,0 +1,17 @@
+{
+  "lab": "m02l05-02",
+  "lesson": "m02l05",
+  "title": "The starting point: a string, or a null",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "StringlyTyped.cs",
+  "files": [
+    "StringlyTyped.cs"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

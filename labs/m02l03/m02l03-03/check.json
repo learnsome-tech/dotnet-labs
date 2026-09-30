@@ -1,0 +1,20 @@
+{
+  "lab": "m02l03-03",
+  "lesson": "m02l03",
+  "title": "A diagnostic is feedback from the build",
+  "mode": "run",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Program.cs",
+  "files": [
+    "Program.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "dotnet"
+  ],
+  "note": "what the listing prints in the lab sandbox differs from the output recorded for the lesson (it depends on the machine, the clock or the network), so the site runs it without a pass or fail."
+}

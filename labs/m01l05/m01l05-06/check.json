@@ -1,0 +1,20 @@
+{
+  "lab": "m01l05-06",
+  "lesson": "m01l05",
+  "title": "Exceptions Travel Across An await",
+  "mode": "graded",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Faults.cs",
+  "files": [
+    "Faults.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "dotnet",
+  "requires": [
+    "dotnet"
+  ],
+  "note": null
+}

@@ -1,0 +1,20 @@
+{
+  "lab": "m01l05-05",
+  "lesson": "m01l05",
+  "title": "Sequential Awaits Versus Task.WhenAll",
+  "mode": "graded",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Timing.cs",
+  "files": [
+    "Timing.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "dotnet",
+  "requires": [
+    "dotnet"
+  ],
+  "note": null
+}

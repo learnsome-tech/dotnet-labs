@@ -1,20 +1,23 @@
-# Built-in Rate Limiting Middleware
+# m06l03 · Built-in Rate Limiting Middleware
 
-**Course**: [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course)  
-**Module**: Authentication Authorization And Resiliency  
-**Lesson**: `m06l03`
+Module 6: Authentication Authorization And Resiliency · lesson 6.3 · Pro · [Open the lesson](https://learnsome.tech/learn/dotnet-course/m06l03)
 
-## Links
+**Goal:** You can define a partitioned rate limit and return a useful response when a client exceeds it.
 
-- [Watch lesson](https://learnsome.tech/courses/dotnet-course/watch?lesson=m06l03)
-- [Handbook](https://learnsome.tech/courses/dotnet-course/book#lesson-6-3)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m06l03-02](m06l03-02/) | Register a fixed window limiter | Read along |
+| [m06l03-03](m06l03-03/) | The limiter rejects excess traffic | Graded |
 
-- [`m06l03-02/`](m06l03-02/)
-- [`m06l03-03/`](m06l03-03/)
+## Check yourself
+
+- Why partition a limiter?
+- What is a fixed window weakness?
+- What should a client do with retry after?
+- Which metrics should a limiter expose?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Modern .NET Core, C# & Enterprise Microservices on LearnSome.tech](https://learnsome.tech/courses/dotnet-course)

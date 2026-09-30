@@ -1,0 +1,20 @@
+{
+  "lab": "m06l04-03",
+  "lesson": "m06l04",
+  "title": "A healthy probe returns success",
+  "mode": "graded",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "HealthRequest.cs",
+  "files": [
+    "HealthRequest.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "dotnet",
+  "requires": [
+    "dotnet"
+  ],
+  "note": null
+}

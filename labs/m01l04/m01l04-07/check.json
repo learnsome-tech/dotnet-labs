@@ -1,0 +1,20 @@
+{
+  "lab": "m01l04-07",
+  "lesson": "m01l04",
+  "title": "Aggregates and grouping over one sequence",
+  "mode": "graded",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Report.cs",
+  "files": [
+    "Report.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "dotnet",
+  "requires": [
+    "dotnet"
+  ],
+  "note": null
+}

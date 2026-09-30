@@ -1,0 +1,17 @@
+{
+  "lab": "m01l04-06",
+  "lesson": "m01l04",
+  "title": "The LINQ operators you will actually use",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "Queries.cs",
+  "files": [
+    "Queries.cs"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

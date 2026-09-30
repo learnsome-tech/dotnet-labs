@@ -1,20 +1,23 @@
-# Source-Generated Mapping with Mapperly
+# m04l05 · Source-Generated Mapping with Mapperly
 
-**Course**: [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course)  
-**Module**: Data Access And Mapping  
-**Lesson**: `m04l05`
+Module 4: Data Access And Mapping · lesson 4.5 · Pro · [Open the lesson](https://learnsome.tech/learn/dotnet-course/m04l05)
 
-## Links
+**Goal:** You can use Mapperly for compile-time mapping while keeping the mapping contract and dependencies explicit.
 
-- [Watch lesson](https://learnsome.tech/courses/dotnet-course/watch?lesson=m04l05)
-- [Handbook](https://learnsome.tech/courses/dotnet-course/book#lesson-4-5)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m04l05-02](m04l05-02/) | A Mapperly declaration | Read along |
+| [m04l05-04](m04l05-04/) | The generated mapper has no runtime setup | Read along |
 
-- [`m04l05-02/`](m04l05-02/)
-- [`m04l05-04/`](m04l05-04/)
+## Check yourself
+
+- When does Mapperly generate code?
+- What happens when a member cannot be mapped?
+- Why keep business rules out of mapping?
+- Why is AutoMapper optional here?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Modern .NET Core, C# & Enterprise Microservices on LearnSome.tech](https://learnsome.tech/courses/dotnet-course)

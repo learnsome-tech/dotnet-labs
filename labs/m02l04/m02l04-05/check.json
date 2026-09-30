@@ -1,0 +1,18 @@
+{
+  "lab": "m02l04-05",
+  "lesson": "m02l04",
+  "title": "The container resolves a graph",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "Program.cs",
+  "files": [
+    "Program.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "The listing does not run cleanly in the lab sandbox (it relies on something the sandbox cannot provide), so the site shows it read-only."
+}

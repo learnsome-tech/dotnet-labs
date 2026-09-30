@@ -1,20 +1,23 @@
-# Entity Framework Core: Code First and Migrations
+# m04l01 · Entity Framework Core: Code First and Migrations
 
-**Course**: [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course)  
-**Module**: Data Access And Mapping  
-**Lesson**: `m04l01`
+Module 4: Data Access And Mapping · lesson 4.1 · Pro · [Open the lesson](https://learnsome.tech/learn/dotnet-course/m04l01)
 
-## Links
+**Goal:** You can model an entity, register a DbContext, and use migrations to evolve a database schema safely.
 
-- [Watch lesson](https://learnsome.tech/courses/dotnet-course/watch?lesson=m04l01)
-- [Handbook](https://learnsome.tech/courses/dotnet-course/book#lesson-4-1)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m04l01-02](m04l01-02/) | An entity and its context | Read along |
+| [m04l01-04](m04l01-04/) | Create and apply a migration | Read along |
 
-- [`m04l01-02/`](m04l01-02/)
-- [`m04l01-04/`](m04l01-04/)
+## Check yourself
+
+- What does a DbContext own?
+- Why review a generated migration?
+- Why should applied migrations stay immutable?
+- Why is a context scoped per request?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Modern .NET Core, C# & Enterprise Microservices on LearnSome.tech](https://learnsome.tech/courses/dotnet-course)

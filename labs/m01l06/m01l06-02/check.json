@@ -1,0 +1,20 @@
+{
+  "lab": "m01l06-02",
+  "lesson": "m01l06",
+  "title": "A record: equality, printing and copying, generated",
+  "mode": "graded",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Program.cs",
+  "files": [
+    "Program.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "dotnet",
+  "requires": [
+    "dotnet"
+  ],
+  "note": null
+}

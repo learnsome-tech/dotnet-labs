@@ -1,20 +1,23 @@
-# Health Checks
+# m06l04 · Health Checks
 
-**Course**: [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course)  
-**Module**: Authentication Authorization And Resiliency  
-**Lesson**: `m06l04`
+Module 6: Authentication Authorization And Resiliency · lesson 6.4 · Pro · [Open the lesson](https://learnsome.tech/learn/dotnet-course/m06l04)
 
-## Links
+**Goal:** You can expose liveness and readiness checks without making a failing dependency look like a dead process.
 
-- [Watch lesson](https://learnsome.tech/courses/dotnet-course/watch?lesson=m06l04)
-- [Handbook](https://learnsome.tech/courses/dotnet-course/book#lesson-6-4)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m06l04-02](m06l04-02/) | Map health endpoints | Read along |
+| [m06l04-03](m06l04-03/) | A healthy probe returns success | Graded |
 
-- [`m06l04-02/`](m06l04-02/)
-- [`m06l04-03/`](m06l04-03/)
+## Check yourself
+
+- What belongs in liveness?
+- Why avoid dependency checks in liveness?
+- Who consumes readiness?
+- Why keep health output terse?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Modern .NET Core, C# & Enterprise Microservices on LearnSome.tech](https://learnsome.tech/courses/dotnet-course)

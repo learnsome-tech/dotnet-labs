@@ -1,20 +1,23 @@
-# Integration Testing with WebApplicationFactory
+# m07l02 · Integration Testing with WebApplicationFactory
 
-**Course**: [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course)  
-**Module**: Testing Telemetry And Publishing  
-**Lesson**: `m07l02`
+Module 7: Testing Telemetry And Publishing · lesson 7.2 · Pro · [Open the lesson](https://learnsome.tech/learn/dotnet-course/m07l02)
 
-## Links
+**Goal:** You can test routing, serialization, and middleware through an in memory ASP.NET Core host.
 
-- [Watch lesson](https://learnsome.tech/courses/dotnet-course/watch?lesson=m07l02)
-- [Handbook](https://learnsome.tech/courses/dotnet-course/book#lesson-7-2)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m07l02-02](m07l02-02/) | A route test through the host | Read along |
+| [m07l02-03](m07l02-03/) | The integration test passes through HTTP | Read along |
 
-- [`m07l02-02/`](m07l02-02/)
-- [`m07l02-03/`](m07l02-03/)
+## Check yourself
+
+- What does Web Application Factory include?
+- Why use HttpClient?
+- What should a test replace?
+- Which bugs can integration tests catch?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Modern .NET Core, C# & Enterprise Microservices on LearnSome.tech](https://learnsome.tech/courses/dotnet-course)

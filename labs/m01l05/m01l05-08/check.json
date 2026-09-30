@@ -1,0 +1,20 @@
+{
+  "lab": "m01l05-08",
+  "lesson": "m01l05",
+  "title": "Streaming Results With IAsyncEnumerable",
+  "mode": "graded",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Streaming.cs",
+  "files": [
+    "Streaming.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "dotnet",
+  "requires": [
+    "dotnet"
+  ],
+  "note": null
+}

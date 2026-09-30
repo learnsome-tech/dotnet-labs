@@ -1,20 +1,23 @@
-# The Repository Pattern
+# m04l03 · The Repository Pattern
 
-**Course**: [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course)  
-**Module**: Data Access And Mapping  
-**Lesson**: `m04l03`
+Module 4: Data Access And Mapping · lesson 4.3 · Pro · [Open the lesson](https://learnsome.tech/learn/dotnet-course/m04l03)
 
-## Links
+**Goal:** You can decide where a repository helps, define a focused interface, and avoid hiding useful query behavior.
 
-- [Watch lesson](https://learnsome.tech/courses/dotnet-course/watch?lesson=m04l03)
-- [Handbook](https://learnsome.tech/courses/dotnet-course/book#lesson-4-3)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m04l03-02](m04l03-02/) | A focused repository contract | Read along |
+| [m04l03-04](m04l03-04/) | A repository implementation saves one product | Read along |
 
-- [`m04l03-02/`](m04l03-02/)
-- [`m04l03-04/`](m04l03-04/)
+## Check yourself
+
+- What makes a repository method meaningful?
+- Why avoid returning tracked entities?
+- Which layer owns HTTP status codes?
+- When is a repository needless ceremony?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Modern .NET Core, C# & Enterprise Microservices on LearnSome.tech](https://learnsome.tech/courses/dotnet-course)

@@ -1,20 +1,23 @@
-# Retry and Circuit Breaker Policies with Polly
+# m06l05 · Retry and Circuit Breaker Policies with Polly
 
-**Course**: [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course)  
-**Module**: Authentication Authorization And Resiliency  
-**Lesson**: `m06l05`
+Module 6: Authentication Authorization And Resiliency · lesson 6.5 · Pro · [Open the lesson](https://learnsome.tech/learn/dotnet-course/m06l05)
 
-## Links
+**Goal:** You can add bounded retries and circuit breaking to outbound HTTP calls without multiplying an outage.
 
-- [Watch lesson](https://learnsome.tech/courses/dotnet-course/watch?lesson=m06l05)
-- [Handbook](https://learnsome.tech/courses/dotnet-course/book#lesson-6-5)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m06l05-02](m06l05-02/) | Configure an HTTP resilience pipeline | Read along |
+| [m06l05-03](m06l05-03/) | An exhausted policy fails clearly | Graded |
 
-- [`m06l05-02/`](m06l05-02/)
-- [`m06l05-03/`](m06l05-03/)
+## Check yourself
+
+- Which failures are safe to retry?
+- Why add jitter?
+- What does an open circuit protect?
+- Why bound total request time?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Modern .NET Core, C# & Enterprise Microservices on LearnSome.tech](https://learnsome.tech/courses/dotnet-course)

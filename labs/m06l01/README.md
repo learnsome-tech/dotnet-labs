@@ -1,20 +1,23 @@
-# Authentication: JWTs and Claims
+# m06l01 · Authentication: JWTs and Claims
 
-**Course**: [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course)  
-**Module**: Authentication Authorization And Resiliency  
-**Lesson**: `m06l01`
+Module 6: Authentication Authorization And Resiliency · lesson 6.1 · Pro · [Open the lesson](https://learnsome.tech/learn/dotnet-course/m06l01)
 
-## Links
+**Goal:** You can validate a bearer token and read claims from the authenticated user.
 
-- [Watch lesson](https://learnsome.tech/courses/dotnet-course/watch?lesson=m06l01)
-- [Handbook](https://learnsome.tech/courses/dotnet-course/book#lesson-6-1)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m06l01-02](m06l01-02/) | Register bearer validation | Read along |
+| [m06l01-03](m06l01-03/) | A claim is available after authentication | Read along |
 
-- [`m06l01-02/`](m06l01-02/)
-- [`m06l01-03/`](m06l01-03/)
+## Check yourself
+
+- What does authentication answer?
+- Which token properties must be validated?
+- Who creates the principal?
+- Why is decoding a token insufficient?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Modern .NET Core, C# & Enterprise Microservices on LearnSome.tech](https://learnsome.tech/courses/dotnet-course)

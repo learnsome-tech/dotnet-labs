@@ -1,0 +1,20 @@
+{
+  "lab": "m01l06-05",
+  "lesson": "m01l06",
+  "title": "One switch expression instead of an if-chain",
+  "mode": "graded",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Program.cs",
+  "files": [
+    "Program.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "dotnet",
+  "requires": [
+    "dotnet"
+  ],
+  "note": null
+}

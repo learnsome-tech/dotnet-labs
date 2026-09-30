@@ -1,0 +1,20 @@
+{
+  "lab": "m01l04-05",
+  "lesson": "m01l04",
+  "title": "Deferred execution: nothing runs until you ask",
+  "mode": "graded",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Deferred.cs",
+  "files": [
+    "Deferred.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "dotnet",
+  "requires": [
+    "dotnet"
+  ],
+  "note": null
+}

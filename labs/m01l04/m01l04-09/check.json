@@ -1,0 +1,20 @@
+{
+  "lab": "m01l04-09",
+  "lesson": "m01l04",
+  "title": "yield return: your own lazy sequence",
+  "mode": "graded",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Lazy.cs",
+  "files": [
+    "Lazy.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "dotnet",
+  "requires": [
+    "dotnet"
+  ],
+  "note": null
+}

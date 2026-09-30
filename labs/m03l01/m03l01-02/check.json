@@ -1,0 +1,17 @@
+{
+  "lab": "m03l01-02",
+  "lesson": "m03l01",
+  "title": "A pipeline with visible boundaries",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "Pipeline.cs",
+  "files": [
+    "Pipeline.cs"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

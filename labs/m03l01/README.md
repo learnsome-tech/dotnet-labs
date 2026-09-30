@@ -1,20 +1,23 @@
-# The ASP.NET Core Middleware Pipeline
+# m03l01 · The ASP.NET Core Middleware Pipeline
 
-**Course**: [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course)  
-**Module**: Routing Controllers And Minimal APIs  
-**Lesson**: `m03l01`
+Module 3: Routing Controllers And Minimal APIs · lesson 3.1 · Pro · [Open the lesson](https://learnsome.tech/learn/dotnet-course/m03l01)
 
-## Links
+**Goal:** You can describe request flow and place middleware in the order that makes authentication, errors, and endpoints behave correctly.
 
-- [Watch lesson](https://learnsome.tech/courses/dotnet-course/watch?lesson=m03l01)
-- [Handbook](https://learnsome.tech/courses/dotnet-course/book#lesson-3-1)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m03l01-02](m03l01-02/) | A pipeline with visible boundaries | Read along |
+| [m03l01-04](m03l01-04/) | A tiny middleware writes the path | Read along |
 
-- [`m03l01-02/`](m03l01-02/)
-- [`m03l01-04/`](m03l01-04/)
+## Check yourself
+
+- Why must authentication precede authorization?
+- What does short circuiting mean?
+- Where would you place exception handling?
+- Why can middleware do work after next returns?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Modern .NET Core, C# & Enterprise Microservices on LearnSome.tech](https://learnsome.tech/courses/dotnet-course)

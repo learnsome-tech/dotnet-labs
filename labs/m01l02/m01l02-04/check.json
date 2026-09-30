@@ -1,0 +1,20 @@
+{
+  "lab": "m01l02-04",
+  "lesson": "m01l02",
+  "title": "Proving copy semantics with a struct and a class",
+  "mode": "graded",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Copies.cs",
+  "files": [
+    "Copies.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "dotnet",
+  "requires": [
+    "dotnet"
+  ],
+  "note": null
+}

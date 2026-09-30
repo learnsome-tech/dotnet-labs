@@ -1,0 +1,17 @@
+{
+  "lab": "m01l06-03",
+  "lesson": "m01l06",
+  "title": "Why a DTO wants to be a record",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "Contracts.cs",
+  "files": [
+    "Contracts.cs"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

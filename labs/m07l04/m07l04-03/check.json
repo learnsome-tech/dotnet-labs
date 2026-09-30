@@ -1,0 +1,17 @@
+{
+  "lab": "m07l04-03",
+  "lesson": "m07l04",
+  "title": "Publish a trimmed container",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "Publish.cs",
+  "files": [
+    "Publish.cs"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

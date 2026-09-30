@@ -1,0 +1,17 @@
+{
+  "lab": "m04l01-02",
+  "lesson": "m04l01",
+  "title": "An entity and its context",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "CatalogContext.cs",
+  "files": [
+    "CatalogContext.cs"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

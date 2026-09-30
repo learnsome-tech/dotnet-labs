@@ -1,20 +1,23 @@
-# API Documentation UI with Scalar
+# m05l04 · API Documentation UI with Scalar
 
-**Course**: [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course)  
-**Module**: Validation Errors And OpenAPI  
-**Lesson**: `m05l04`
+Module 5: Validation Errors And OpenAPI · lesson 5.4 · Pro · [Open the lesson](https://learnsome.tech/learn/dotnet-course/m05l04)
 
-## Links
+**Goal:** You can add Scalar as a documentation UI over the built in OpenAPI document.
 
-- [Watch lesson](https://learnsome.tech/courses/dotnet-course/watch?lesson=m05l04)
-- [Handbook](https://learnsome.tech/courses/dotnet-course/book#lesson-5-4)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m05l04-02](m05l04-02/) | Map Scalar over the document | Read along |
+| [m05l04-03](m05l04-03/) | Scalar opens the API contract | Read along |
 
-- [`m05l04-02/`](m05l04-02/)
-- [`m05l04-03/`](m05l04-03/)
+## Check yourself
+
+- What does Scalar add?
+- Does Scalar bypass authorization?
+- Why keep document and UI routes separate?
+- Who should see the documentation UI?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Modern .NET Core, C# & Enterprise Microservices on LearnSome.tech](https://learnsome.tech/courses/dotnet-course)

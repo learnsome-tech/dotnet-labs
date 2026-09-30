@@ -1,0 +1,17 @@
+{
+  "lab": "m07l02-03",
+  "lesson": "m07l02",
+  "title": "The integration test passes through HTTP",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "IntegrationRun.txt",
+  "files": [
+    "IntegrationRun.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

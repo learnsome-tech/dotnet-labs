@@ -1,0 +1,17 @@
+{
+  "lab": "m02l04-02",
+  "lesson": "m02l04",
+  "title": "Register one service at each lifetime",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "Program.cs",
+  "files": [
+    "Program.cs"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

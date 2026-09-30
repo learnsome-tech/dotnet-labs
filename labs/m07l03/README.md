@@ -1,20 +1,23 @@
-# Behavior-Driven Development with Reqnroll
+# m07l03 · Behavior-Driven Development with Reqnroll
 
-**Course**: [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course)  
-**Module**: Testing Telemetry And Publishing  
-**Lesson**: `m07l03`
+Module 7: Testing Telemetry And Publishing · lesson 7.3 · Pro · [Open the lesson](https://learnsome.tech/learn/dotnet-course/m07l03)
 
-## Links
+**Goal:** You can write a readable Reqnroll scenario and connect its steps to the application boundary.
 
-- [Watch lesson](https://learnsome.tech/courses/dotnet-course/watch?lesson=m07l03)
-- [Handbook](https://learnsome.tech/courses/dotnet-course/book#lesson-7-3)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m07l03-02](m07l03-02/) | A catalog scenario | Read along |
+| [m07l03-03](m07l03-03/) | Reqnroll runs the scenario | Read along |
 
-- [`m07l03-02/`](m07l03-02/)
-- [`m07l03-03/`](m07l03-03/)
+## Check yourself
+
+- What belongs in a feature file?
+- What does a step definition call?
+- Why is SpecFlow absent?
+- Which tests cover detailed branching?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Modern .NET Core, C# & Enterprise Microservices on LearnSome.tech](https://learnsome.tech/courses/dotnet-course)

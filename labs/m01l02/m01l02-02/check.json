@@ -1,0 +1,20 @@
+{
+  "lab": "m01l02-02",
+  "lesson": "m01l02",
+  "title": "Declared, inferred, and still one fixed type",
+  "mode": "graded",
+  "runner": "csharp",
+  "command": "dotnet run",
+  "main": "Types.cs",
+  "files": [
+    "Types.cs",
+    "snippet.csproj"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "dotnet",
+  "requires": [
+    "dotnet"
+  ],
+  "note": null
+}

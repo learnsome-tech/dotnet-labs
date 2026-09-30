@@ -1,20 +1,23 @@
-# Global Exception Handling and Problem Details
+# m05l02 · Global Exception Handling and Problem Details
 
-**Course**: [Modern .NET Core, C# & Enterprise Microservices](https://learnsome.tech/courses/dotnet-course)  
-**Module**: Validation Errors And OpenAPI  
-**Lesson**: `m05l02`
+Module 5: Validation Errors And OpenAPI · lesson 5.2 · Pro · [Open the lesson](https://learnsome.tech/learn/dotnet-course/m05l02)
 
-## Links
+**Goal:** You can turn expected and unexpected failures into consistent problem details without leaking implementation data.
 
-- [Watch lesson](https://learnsome.tech/courses/dotnet-course/watch?lesson=m05l02)
-- [Handbook](https://learnsome.tech/courses/dotnet-course/book#lesson-5-2)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m05l02-02](m05l02-02/) | Register the built in exception handler | Read along |
+| [m05l02-03](m05l02-03/) | A conflict becomes problem details | Read along |
 
-- [`m05l02-02/`](m05l02-02/)
-- [`m05l02-03/`](m05l02-03/)
+## Check yourself
+
+- What belongs in problem details?
+- Why hide stack traces?
+- Where should unexpected exceptions be logged?
+- What does a trace identifier connect?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Modern .NET Core, C# & Enterprise Microservices on LearnSome.tech](https://learnsome.tech/courses/dotnet-course)
